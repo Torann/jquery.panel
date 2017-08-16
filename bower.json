@@ -1,0 +1,28 @@
+{
+  "name": "jquery.panel",
+  "description": "A CSS3 and jQuery powered slide-in panel, to quickly show side content, notifications or profile information.",
+  "keywords": [
+    "jquery",
+    "slide-in",
+    "panel"
+  ],
+  "homepage": "https://github.com/torann/jquery.panel",
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "main": "jquery.panel.js",
+  "ignore": [
+    ".gitignore",
+    ".gitattributes",
+    "bower_components",
+    "tests"
+  ],
+  "version": "0.1.0",
+  "authors": [
+    "Daniel Stainback <torann@gmail.com>"
+  ],
+  "license": "Apache-2.0"
+}
