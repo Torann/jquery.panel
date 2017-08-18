@@ -129,7 +129,7 @@
             this.setupForm($panel.find('.quick-panel-content form'));
 
             // Reveal callback
-            if (typeof that.afterReveal === 'function') this.afterReveal($panel, this);
+            if (typeof this.afterReveal === 'function') this.afterReveal($panel, this);
 
             // JavaScript Libraries used
             if($.fn.markdownEditor) $panel.find('textarea[data-provide="markdown"]').markdownEditor();
